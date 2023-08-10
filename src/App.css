@@ -1,0 +1,61 @@
+.img img{
+  width: 50vw;
+  height: 80vh;
+  background-image: contain;
+  float: left;
+}
+
+.cart-details{
+  float: right;
+  background-color: #fff;
+  width: 48vw;
+  height: 80vh;
+  margin: 5px;
+
+}
+.main-title{
+  font-size: 25px;
+  /* font-style: bold; */
+  /* font-weight: 200; */
+
+}
+.cart-details span{
+  margin: 20px;
+}
+.ruppes{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin: 15px;
+  font-size: 25px;
+}
+
+.add-btn{
+  margin-left: 15px;
+
+}
+.quantity{
+  margin-left: 15px;
+}
+
+.add-to-cart{
+  margin-left: 15px;
+  width: 80%;
+  background-color:antiquewhite;
+  border : none;
+  color: orange;
+  border-style: solid;
+}
+
+.size{
+  background-color: rgb(18, 56, 112);
+  color: whitesmoke;
+  margin: 20px;
+}
+
+.label{
+  margin: 30px;
+}
+
+.bottom{
+  margin: 40px;
+}
